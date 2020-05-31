@@ -1,0 +1,41 @@
+desc, url, category
+Merging PDFS using Python, https://geektechstuff.com/2018/02/17/python-3-merge-multiple-pdfs-into-one-pdf/, #python
+Caesar Cipher in Python, https://geektechstuff.com/2018/02/25/caesar-cipher-python/, #python
+Scissor Paper Stone in Python, https://geektechstuff.com/2018/03/03/scissor-paper-stone-but-with-pokemon/, #python
+Using Python Turtle to show images, https://geektechstuff.com/2018/03/04/python-using-turtle-to-show-images/, #python
+Where is the International Space Station (ISS) using Python, https://geektechstuff.com/2018/03/04/where-is-the-international-space-station-python/, #python
+NASA Near Earth Object (NEO) detection using Python, https://geektechstuff.com/2018/03/09/nasa-neo-v3-python/, #python
+NASA Curiosity photo viewer, https://geektechstuff.com/2018/03/12/nasa-curiosity-photo-viewer-v1-python/, #python
+Weather Forecast using Python, https://geektechstuff.com/2018/03/22/weather-forecast-v3-python/, #python
+Creating a Python GUI window, https://geektechstuff.com/2018/03/26/creating-a-basic-gui-window-python/, #python
+Weather Forecast with GUI in Python, https://geektechstuff.com/2018/04/01/weather-forecast-gui-v1-python/, #python
+Random Turtle shapes, https://geektechstuff.com/2018/04/29/random-turtle-shapes-python/,#python
+Moving files by type using Python, https://geektechstuff.com/2018/05/21/moving-files-by-type-v1-python/, #python
+A brief look at Python Secrets, https://geektechstuff.com/2018/06/09/secrets-python/, #python
+Using Python to check Pollen count, https://geektechstuff.com/2018/06/26/pollen-check-v2-python-or-how-to-send-e-mail-via-python/, #python
+File Explorer via Python, https://geektechstuff.com/2018/07/02/file-browser-v1-python/, #python
+PDF Merging via a Python GUI, https://geektechstuff.com/2018/07/04/pdf-merge-with-gui-v2-python/, #python
+Creating a Python progress bar, https://geektechstuff.com/2018/12/07/creating-a-progress-bar-python/, #python
+Python Caesar Cipher with GUI, https://geektechstuff.com/2018/12/10/caesar-cipher-with-gui-python/, #python
+Converting words to pig latin using Python, https://geektechstuff.com/2018/12/12/convert-words-to-pig-latin-python/, #python
+Analysing a tweets sentiment using Python and Azure, https://geektechstuff.com/2019/02/26/analysing-tweet-sentiment-with-azure-python/, #python
+Using a Raspberry Pi sensor with Python and CSV files, https://geektechstuff.com/2019/03/10/saving-sensor-readings-to-csv-python-raspberry-pi/, #python
+Using UK flood data with Python, https://geektechstuff.com/2019/03/16/uk-flood-alert-flood-data-python/, #python
+Python & web crawling and Selenium, https://geektechstuff.com/2019/05/07/web-scraping-introducing-selenium-python/, #python
+A basic Python network/port scanner, https://geektechstuff.com/2019/07/02/network-port-scanner-v2-python/, #python
+Turning pictures into CSV values, https://geektechstuff.com/2019/10/09/turning-images-into-values-python/, #python
+Brute forcing the Caesar Cipher using Python, https://geektechstuff.com/2019/12/22/brute-force-caesar-cipher-python/, #python
+The Vigenere Cipher and Python, https://geektechstuff.com/2020/01/03/vigenere-cipher-python/, #python
+Morse Code and Python, https://geektechstuff.com/2020/01/11/morse-code-python/, #python
+Ansible's Copy and Fetch modules, https://geektechstuff.com/2020/05/12/ansibles-copy-and-fetch-modules/, #ansibles
+Installing NGINX as a reverse proxy using Ansible, https://geektechstuff.com/2020/05/05/installing-and-configuring-nginx-as-a-reverse-proxy-via-an-ansible-playbook/, #ansible
+Installing an ELK stack using Ansible roles, https://geektechstuff.com/2020/05/04/using-ansible-roles-aka-elk-stack-ansible-playbook-v2/, #ansible
+The Linux History command, https://geektechstuff.com/2020/04/19/the-power-of-history-linux/, #Linux
+Chown Stat and ID Linux commands, https://geektechstuff.com/2020/04/15/chown-stat-id-and-some-more-permissions-linux/, #linux
+Changing Linux file/directory permissions, https://geektechstuff.com/2020/04/14/changing-permissions-via-chmod-linux/, #linux
+Viewing Linux file/directory permissions, https://geektechstuff.com/2020/04/12/viewing-permissions-linux/, #linux
+Checking a file in Linux, https://geektechstuff.com/2020/03/21/file-checking-with-file-linux/, #linux
+Encrypting a file via Ansible Vault, https://geektechstuff.com/2020/03/20/encrypting-files-with-ansible-vault-linux/, #ansible
+Downloading multiple files via wget, https://geektechstuff.com/2020/03/19/downloading-multiple-files-via-wget-linux/, #Linux
+Copying files and folders via SCP, https://geektechstuff.com/2020/03/19/copying-files-folders-via-scp-linux/, #linux
+Using Linux dstat, https://geektechstuff.com/2020/03/08/dstat-viewing-linux-under-the-hood-linux/, #linux
